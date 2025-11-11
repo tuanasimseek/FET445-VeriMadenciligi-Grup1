@@ -1,0 +1,13 @@
+# Veri dosyalarını GitHub'a yükleme
+data/*.csv
+data/*.json
+*.zip
+*.rar
+*.tar
+*.7z
+
+# Jupyter geçici dosyaları
+.ipynb_checkpoints/
+
+# macOS sistem dosyaları
+.DS_Store
